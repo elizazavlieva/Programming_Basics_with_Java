@@ -1,4 +1,4 @@
-package scr._1_First_Steps_in_Coding;
+package scr._1_First_Steps_in_Coding.Lab;
 
 import java.util.Scanner;
 

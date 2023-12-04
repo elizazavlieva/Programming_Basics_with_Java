@@ -1,4 +1,4 @@
-package scr._1_First_Steps_in_Coding;
+package scr._1_First_Steps_in_Coding.Lab;
 
 public class Num1To10 {
     public static void main(String[] args) {
