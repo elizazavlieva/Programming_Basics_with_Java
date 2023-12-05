@@ -6,7 +6,7 @@ public class AreaOfFigures {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String figure = scanner.nextLine();
-        double area;
+        double area = 0;
         if (figure.equals("square")){
             double length = Double.parseDouble(scanner.nextLine());
             area = length * length;
