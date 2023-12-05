@@ -1,4 +1,4 @@
-package scr._02_Conditional_Statements.Lab;
+package scr._2_Conditional_Statements.Lab;
 
 import java.util.Scanner;
 
