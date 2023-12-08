@@ -1,4 +1,4 @@
-package scr._4_For_Loop.Exercises;
+package scr._4_For_Loop.Lab;
 
 public class NumbersFrom1To100 {
     public static void main(String[] args) {
