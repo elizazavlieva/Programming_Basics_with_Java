@@ -13,7 +13,7 @@ public class Graduation {
         while (classes < 12){
             double grade = Double.parseDouble(scanner.nextLine());
             totalGrades += grade;
-            classes += 1;
+            classes ++;
             if (grade < 4.0){
                 break;
             }
