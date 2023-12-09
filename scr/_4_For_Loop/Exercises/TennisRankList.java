@@ -2,7 +2,7 @@ package scr._4_For_Loop.Exercises;
 
 import java.util.Scanner;
 
-public class TennisRanklist {
+public class TennisRankList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
